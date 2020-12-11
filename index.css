@@ -1,0 +1,35 @@
+.navbar{
+    background-color:393F3E;
+     margin-left: auto;
+    margin-right: auto;
+}
+
+.abc{
+    width: 300px;
+    float: right;
+    right: 0;
+    left:auto;
+    margin-top: 100px;
+    margin-right: 80px;
+}
+.z2{
+    background-color: BCBCBC;
+}
+.scrolbar{
+    scrollbar-base-color: orange;
+    scrollbar-arrow-color: green;
+    scrollbar-DarkShadow-Color: blue;
+}
+.img11{
+    margin-left: 100px;
+    width: 500px;
+    height: 500px;
+    border-radius: 50%;
+}
+
+.card{
+    height: 500px;
+}
+z4{
+    margin-top: 20px;
+}
